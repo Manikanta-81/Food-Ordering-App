@@ -77,9 +77,9 @@ npm run build
 yarn build
 ```
 
-## Screenshots
+<!-- ## Screenshots
 
-(Screenshots would be included here)
+(Screenshots would be included here) -->
 
 ## Contributing
 
